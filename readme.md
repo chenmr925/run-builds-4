@@ -1,7 +1,7 @@
 this is a tools to run build scripts: 
 
 webpack 4
-babel 6
+babel 7
 typescript
 less
 sass
