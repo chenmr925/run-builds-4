@@ -1,8 +1,6 @@
 module.exports = {
 	pages: {
-		index: {
-			path: "./src/index.tsx"
-		}
+		index: "./src/index.tsx"
 	},
 	webpackConfig: {
 		devServer: {
